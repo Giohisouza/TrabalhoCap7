@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7936A-0D44-405F-B8A0-7ABEF38BFF7E}|..\\Gestao.Residuos.Testes\\Gestao.Residuos.Testes.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos.testes\\controllers\\rotacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF639E0A-74C5-4DB1-A996-A030BBC694D2}|Gestao.Residuos.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos\\controllers\\rotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF639E0A-74C5-4DB1-A996-A030BBC694D2}|Gestao.Residuos.csproj|solutionrelative:controllers\\rotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7936A-0D44-405F-B8A0-7ABEF38BFF7E}|..\\Gestao.Residuos.Testes\\Gestao.Residuos.Testes.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos.testes\\controllers\\moradorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF639E0A-74C5-4DB1-A996-A030BBC694D2}|Gestao.Residuos.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos\\controllers\\moradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF639E0A-74C5-4DB1-A996-A030BBC694D2}|Gestao.Residuos.csproj|solutionrelative:controllers\\moradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7936A-0D44-405F-B8A0-7ABEF38BFF7E}|..\\Gestao.Residuos.Testes\\Gestao.Residuos.Testes.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos.testes\\controllers\\caminhoescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF639E0A-74C5-4DB1-A996-A030BBC694D2}|Gestao.Residuos.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos\\controllers\\caminhoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF639E0A-74C5-4DB1-A996-A030BBC694D2}|Gestao.Residuos.csproj|solutionrelative:controllers\\caminhoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7936A-0D44-405F-B8A0-7ABEF38BFF7E}|..\\Gestao.Residuos.Testes\\Gestao.Residuos.Testes.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos.testes\\controllers\\agendarcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF639E0A-74C5-4DB1-A996-A030BBC694D2}|Gestao.Residuos.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos\\controllers\\agendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF639E0A-74C5-4DB1-A996-A030BBC694D2}|Gestao.Residuos.csproj|solutionrelative:controllers\\agendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7936A-0D44-405F-B8A0-7ABEF38BFF7E}|..\\Gestao.Residuos.Testes\\Gestao.Residuos.Testes.csproj|c:\\users\\lucas\\source\\repos\\gestao.residuos.testes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotaControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\Controllers\\RotaControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Gestao.Residuos.Testes\\Controllers\\RotaControllerTests.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\Controllers\\RotaControllerTests.cs",
+              "RelativeToolTip": "..\\Gestao.Residuos.Testes\\Controllers\\RotaControllerTests.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAUwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:50:48.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RotaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\Controllers\\RotaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RotaController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\Controllers\\RotaController.cs",
+              "RelativeToolTip": "Controllers\\RotaController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:49:49.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoradorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\Controllers\\MoradorControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Gestao.Residuos.Testes\\Controllers\\MoradorControllerTests.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\Controllers\\MoradorControllerTests.cs",
+              "RelativeToolTip": "..\\Gestao.Residuos.Testes\\Controllers\\MoradorControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:49:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoradorController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\Controllers\\MoradorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoradorController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\Controllers\\MoradorController.cs",
+              "RelativeToolTip": "Controllers\\MoradorController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:48:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CaminhoesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\Controllers\\CaminhoesControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Gestao.Residuos.Testes\\Controllers\\CaminhoesControllerTests.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\Controllers\\CaminhoesControllerTests.cs",
+              "RelativeToolTip": "..\\Gestao.Residuos.Testes\\Controllers\\CaminhoesControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:45:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaminhoesController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\Controllers\\CaminhoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CaminhoesController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\Controllers\\CaminhoesController.cs",
+              "RelativeToolTip": "Controllers\\CaminhoesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:43:04.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgendarController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\Controllers\\AgendarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgendarController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos\\Controllers\\AgendarController.cs",
+              "RelativeToolTip": "Controllers\\AgendarController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:32:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgendarControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\Controllers\\AgendarControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Gestao.Residuos.Testes\\Controllers\\AgendarControllerTests.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\Controllers\\AgendarControllerTests.cs",
+              "RelativeToolTip": "..\\Gestao.Residuos.Testes\\Controllers\\AgendarControllerTests.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAADwv+wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:23:31.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Gestao.Residuos.Testes\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Gestao.Residuos.Testes\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Gestao.Residuos.Testes\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:06:49.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
